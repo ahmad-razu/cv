@@ -59,7 +59,7 @@ h3 {
   width: 500px;
 }
 .btn {
-background-color: #4CAF50; /* Green */
+background-color: #4CAF50;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -67,6 +67,7 @@ background-color: #4CAF50; /* Green */
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  border-radius: 30px;
 }
 .footer-link1 {
   background-color: blue;
@@ -77,6 +78,7 @@ background-color: #4CAF50; /* Green */
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    border-radius: 30px;
 }
 
 .footer-link2 {
@@ -88,6 +90,7 @@ background-color: #4CAF50; /* Green */
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+    border-radius: 30px;
   }
   .footer-link3 {
     background-color: magenta;
@@ -98,6 +101,7 @@ background-color: #4CAF50; /* Green */
       text-decoration: none;
       display: inline-block;
       font-size: 16px;
+      border-radius: 30px;
     }
 
     .button {
@@ -109,17 +113,19 @@ background-color: #4CAF50; /* Green */
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  border-radius: 30px;
 }
 
 .button2 {
 background-color: purple;
-border: none;s
+border: none;
 color: white;
 padding: 15px 32px;
 text-align: center;
 text-decoration: none;
 display: inline-block;
 font-size: 16px;
+border-radius: 30px;
 }
 
 .contact-me {
